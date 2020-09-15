@@ -5,5 +5,5 @@ the hidden diversity of dimorphic fungal pathogens
 3. DW Ziegler et al., 2005: Correlation of continuous cardiac output measured by a pulmonary artery catheter
 versus impedance cardiography in ventilated patients
 
-![](Correlation.png)
+![](corr1.png)
 
